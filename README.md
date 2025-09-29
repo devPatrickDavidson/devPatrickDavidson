@@ -13,10 +13,11 @@
 ---
 
 ## Contact
-  lINKEDIN: linkedin.com/in/dev-patrick-davidson
-  Email: Patrick.davidsoncarvalho@gmail.com
+  - lINKEDIN: linkedin.com/in/dev-patrick-davidson
+  - Email: Patrick.davidsoncarvalho@gmail.com
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devPatrickDavidson&layout=compact)
 
 ⭐ Feel free to explore my repositories and projects!  

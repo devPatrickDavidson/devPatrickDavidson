@@ -18,6 +18,6 @@
 
 ---
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devPatrickDavidson&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devPatrickDavidson&layout=compact&theme-dracula)
 
 ⭐ Feel free to explore my repositories and projects!  

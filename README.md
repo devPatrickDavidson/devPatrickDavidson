@@ -3,12 +3,12 @@
 ---
 
 ## 👨‍🎓 About Me  
-- 🎯 Aspiring **AppSec Developer**  
-- 💻 Programmer focused on **Back-end Development**  
-- 🔒 **Cybersecurity Enthusiast**  
-- 🎓 **Computer Science Student** at PUCPR  
-- 🛠️ Certified **Technician in Systems Analysis and Development**  
-- 📚 Currently learning: **PHP, TypeScript, and Python**  
+- 🎯 Aspiring **AppSec Developer**.  
+- 💻 Programmer focused on **Back-end Development**.  
+- 🔒 **Cybersecurity Enthusiast**.  
+- 🎓 **Computer Science Student** at PUCPR.  
+- 🛠️ Certified **Technician in Systems Analysis and Development**.  
+- 📚 Currently learning: **PHP, TypeScript, and Python**.  
 
 ---
 

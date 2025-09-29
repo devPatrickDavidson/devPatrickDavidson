@@ -1,6 +1,6 @@
- 👋 Hello, welcome to my GitHub profile!
+# 👋 Hello, welcome to my GitHub profile!
 
----
+
 
 ## 👨‍🎓 About Me  
 - 🎯 Aspiring **AppSec Developer**.  

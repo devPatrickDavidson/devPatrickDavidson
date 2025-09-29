@@ -32,11 +32,6 @@
   <img align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" />
   <img align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-          
-          
-          
-          
 </div><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devPatrickDavidson&layout=compact&theme=midnight-purple)

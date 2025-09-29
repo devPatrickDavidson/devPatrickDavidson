@@ -35,6 +35,7 @@
   <img alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </p>
 <p align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devPatrickDavidson&layout=compact&theme=dracula)
 </p>
 ---

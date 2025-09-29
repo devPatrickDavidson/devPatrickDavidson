@@ -1,6 +1,15 @@
-<h1> Hello, welcome to my GitHub profile👋</h1>
- <hr> </hr>
+# 👋 Hello, welcome to my GitHub profile!
 
- ABOUT ME 👨‍🎓
- - Computer science student at PUCPR
- - Trained as a technician in systems analysis and development
+---
+
+## 👨‍🎓 About Me  
+- 🎯 Aspiring **AppSec Developer**  
+- 💻 Programmer focused on **Back-end Development**  
+- 🔒 **Cybersecurity Enthusiast**  
+- 🎓 **Computer Science Student** at PUCPR  
+- 🛠️ Certified **Technician in Systems Analysis and Development**  
+- 📚 Currently learning: **PHP, TypeScript, and Python**  
+
+---
+
+⭐ Feel free to explore my repositories and projects!  
